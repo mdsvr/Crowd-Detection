@@ -55,11 +55,6 @@ crowd-detection-project/
 └── outputs/                    # Folder for output files (e.g., CSV files)
 ```
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
 ## How to Contribute
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/YourFeatureName`).
