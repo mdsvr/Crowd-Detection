@@ -67,7 +67,3 @@ crowd-detection-project/
 ## Acknowledgments
 - [YOLOv5 by Ultralytics](https://github.com/ultralytics/yolov5) for the object detection model.
 - OpenCV, PyTorch, NumPy, and Pandas for enabling this project.
-
----
-
-This description provides a clear and concise overview of your project, making it easy for others to understand and use. You can copy and paste this into your GitHub repository's `README.md` file. Let me know if you need further assistance! 🚀
